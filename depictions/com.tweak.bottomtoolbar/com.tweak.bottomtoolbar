@@ -1,0 +1,11 @@
+{
+	"name": "BottomToolBar",
+	"version": "1.0.0-2",
+	"description": "Thêm một thanh công cụ hữu ích vào dưới cùng của thiết bị, có thể kích hoạt dễ dàng bằng cách vuốt lên.",
+	"compatitle": "iOS 11.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.bottomtoolbar/1.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.bottomtoolbar/2.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.bottomtoolbar/3.jpg'/>",
+	"changelog": "<ul><li>Fixed the gesture problem after opening apps from BottomToolBar's dock.</li></ul>",
+	"licence": "Free",
+	"updated": "07-11-2019",
+	"sourcecode": ""
+}

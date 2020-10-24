@@ -1,0 +1,11 @@
+{
+	"name": "BoardBanner12",
+	"version": "1.1",
+	"description": "Chỉnh biểu ngữ thông báo cho các thiết bị có màn hình Notch.<li>Chỉ hỗ trợ IPX, IPXS (Max) and IPXR.</li>",
+	"compatitle": "iOS 11.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.boardbanner12/1.jpg'/>",
+	"changelog": "<ul><li>Fixes some issues</li></ul>",
+	"licence": "Free",
+	"updated": "07-11-2019",
+	"sourcecode": ""
+}

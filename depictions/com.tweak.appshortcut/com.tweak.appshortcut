@@ -1,0 +1,11 @@
+{
+	"name": "AppShortcut",
+	"version": "1.0.4",
+	"description": "Truy cập các ứng dụng yêu thích của bạn từ bất cứ đâu một cách nhanh chóng.",
+	"compatitle": "iOS 12.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.appshortcut/1.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.appshortcut/2.jpg'/>",
+	"changelog": "<ul><li>Added arm64e(A12 devies) support.</li></ul>",
+	"licence": "Free",
+	"updated": "07-11-2019",
+	"sourcecode": ""
+}

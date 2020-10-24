@@ -1,0 +1,107 @@
+{
+    "minVersion": "0.1",
+	 "headerImage": "https://imod668.github.io/header.png",
+	 "tintColor": "",
+    "tabs": [
+      {
+        "tabname": "Details",
+        "views": [
+          {
+            "itemCornerRadius": 4,
+            "itemSize": "{187.5, 333.5}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://imod668.github.io/depictions/com.tweak.bottomtoolbar/1.jpg"
+              },
+			  {
+                "accessibilityText": "Screenshot",
+                "url": "https://imod668.github.io/depictions/com.tweak.bottomtoolbar/2.jpg"
+              },
+			  {
+                "accessibilityText": "Screenshot",
+                "url": "https://imod668.github.io/depictions/com.tweak.bottomtoolbar/3.jpg"
+              },
+            ],
+            "class": "DepictionScreenshotsView"
+          },
+          {
+            "markdown": "Thêm một thanh công cụ hữu ích vào dưới cùng của thiết bị, có thể kích hoạt dễ dàng bằng cách vuốt lên.",
+            "useSpacing": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Information",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "title": "Licence",
+            "text": "Free",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Version",
+            "text": "1.0.0-2",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Compatibility",
+            "text": "iOS 11.0 - 12.4",
+            "class": "DepictionTableTextView"
+          },
+	
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Follow Me",
+            "class": "DepictionHeaderView"
+          },
+
+          {
+            "title": "Facebook",
+            "action": "https://facebook.com.com/MrthuanJB",
+            "class": "DepictionTableButtonView"
+          },
+
+          {
+            "spacing": 8,
+            "class": "DepictionSpacerView"
+          }
+        ],
+        "class": "DepictionStackView"
+      },
+	  
+	  {
+        "tabname": "Changelog",
+        "views": [
+          {
+            "title": "Version 1.0.0-2",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "Fixed the gesture problem after opening apps from BottomToolBar's dock.",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 07-11-2019<\/small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          }
+          
+        ],
+        "class": "DepictionStackView"
+      }
+	  
+    ],
+    "class": "DepictionTabView"
+  }

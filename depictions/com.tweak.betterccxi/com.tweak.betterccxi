@@ -1,0 +1,11 @@
+{
+	"name": "BetterCCXI",
+	"version": "1.6.0",
+	"description": "Nâng cao trung tâm điều khiển của bạn trên iOS 11 & 12.",
+	"compatitle": "iOS 11.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.betterccxi/1.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.betterccxi/2.jpg'/>",
+	"changelog": "<ul><li>Made Artwork BG for the compact style look more vibrant</li></ul>",
+	"licence": "Free",
+	"updated": "17-10-2019",
+	"sourcecode": ""
+}

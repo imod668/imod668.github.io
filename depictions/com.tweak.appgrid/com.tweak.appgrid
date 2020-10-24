@@ -1,0 +1,11 @@
+{
+	"name": "AppGrid",
+	"version": "0.0.2-2",
+	"description": "Trình chuyển đổi ứng dụng như trên iPad.",
+	"compatitle": "iOS 12.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.appgrid/1.jpg'/>",
+	"changelog": "<ul><li>No changes were reported for this version</li></ul>",
+	"licence": "Free",
+	"updated": "07-11-2019",
+	"sourcecode": ""
+}

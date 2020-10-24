@@ -1,0 +1,11 @@
+{
+	"name": "KillBackgroundXS",
+	"version": "1.0.5",
+	"description": "Tắt các ứng dụng nền với phong cách cho iOS 10 đến 12.",
+	"compatitle": "iOS 10.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.killbackgroundxs/1.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.killbackgroundxs/2.jpg'/>",
+	"changelog": "<ul><li>Update French</li></ul>",
+	"licence": "Free",
+	"updated": "17-10-2019",
+	"sourcecode": ""
+}

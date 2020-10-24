@@ -1,0 +1,11 @@
+{
+	"name": "KillX Pro",
+	"version": "1.3",
+	"description": "Cho phép bạn chỉ cần vuốt xuống một lần trên một thẻ App Switcher để đóng tất cả các ứng dụng đang chạy.",
+	"compatitle": "iOS 11.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.killx-pro/1.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.killx-pro/2.jpg'/>",
+	"changelog": "<ul><li>Added an option to change button height offset.</li></ul>",
+	"licence": "Free",
+	"updated": "17-10-2019",
+	"sourcecode": ""
+}

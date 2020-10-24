@@ -1,0 +1,11 @@
+{
+	"name": "IconTweak",
+	"version": "1.0.1",
+	"description": "Vuốt biểu tượng trên SpringBoard (hoặc nhấn trong chế độ Chỉnh sửa/3DTouch) bạn có thể.<li>Open in Filza [App]</li><li>Open in Filza [Data]</li><li>Rename App</li><li>Clear Badges</li><li>Set Custom Badges</li><li>Clear Caches</li><li>Backup Data</li>...",
+	"compatitle": "iOS 11.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.icontweak/1.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.icontweak/2.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.icontweak/3.jpg'/>",
+	"changelog": "<ul><li>Fix: DRM Issue</li></ul>",
+	"licence": "Free",
+	"updated": "07-11-2019",
+	"sourcecode": ""
+}

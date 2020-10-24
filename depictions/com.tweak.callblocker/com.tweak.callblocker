@@ -1,0 +1,11 @@
+{
+	"name": "CallBlocker",
+	"version": "1.4",
+	"description": "Chặn các cuộc gọi phiền phức!.",
+	"compatitle": "iOS 11.0-12.4",
+	"screenshot": "<img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.callblocker/1.jpg'/><img class='screenshot' src='https://imod668.github.io/depictions/com.tweak.callblocker/2.jpg'/>",
+	"changelog": "<ul><li>Fixed a Bug that would cause the call UI </li></ul>",
+	"licence": "Free",
+	"updated": "07-11-2019",
+	"sourcecode": ""
+}
